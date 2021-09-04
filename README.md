@@ -1,7 +1,7 @@
 # HHModelSimu
 Simulation of neuron firing patterns based on HH Model 
 
-HHModelSpike.m is largely modified from Ryan Sicilian, 2012.
+HHModelSpike.m is largely adapted and modified from Ryan Siciliano, 2012.
 
 Available at: https://www.math.mcgill.ca/gantumur/docs/reps/RyanSicilianoHH.pdf
 
